@@ -1,4 +1,9 @@
 {
-  "habits": [],
+  "habits": [
+    {
+      "id": "h1786396213253",
+      "name": "levantarme a las 7:30-  oración y salmo"
+    }
+  ],
   "checks": {}
 }

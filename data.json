@@ -25,5 +25,7 @@
       "name": "dormir a las 11 - lectura de biblia y oracion"
     }
   ],
-  "checks": {}
+  "checks": {
+    "h1786396279401:2026-08-10": true
+  }
 }

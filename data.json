@@ -1,21 +1,4 @@
 {
-  "habits": [
-    {
-      "id": "h2",
-      "name": "Leer 20 minutos"
-    },
-    {
-      "id": "h3",
-      "name": "Ejercicio"
-    },
-    {
-      "id": "h4",
-      "name": "Meditar 10 minutos"
-    },
-    {
-      "id": "h5",
-      "name": "Dormir 7-8 horas"
-    }
-  ],
+  "habits": [],
   "checks": {}
 }

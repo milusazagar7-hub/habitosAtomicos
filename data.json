@@ -1,0 +1,28 @@
+{
+  "habits": [
+    {
+      "id": "h1",
+      "name": "Beber 2L de agua"
+    },
+    {
+      "id": "h2",
+      "name": "Leer 20 minutos"
+    },
+    {
+      "id": "h3",
+      "name": "Ejercicio"
+    },
+    {
+      "id": "h4",
+      "name": "Meditar 10 minutos"
+    },
+    {
+      "id": "h5",
+      "name": "Dormir 7-8 horas"
+    }
+  ],
+  "checks": {
+    "h1:2026-08-03": true,
+    "h1:2026-08-10": true
+  }
+}
